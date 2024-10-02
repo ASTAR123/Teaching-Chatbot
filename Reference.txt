@@ -1,0 +1,44 @@
+Sequantial Model
+https://www.tensorflow.org/guide/keras/sequential_model
+
+activations
+https://www.tensorflow.org/api_docs/python/tf/keras/activations/softmax
+https://www.geeksforgeeks.org/softmax-regression-using-tensorflow/
+https://www.tensorflow.org/api_docs/python/tf/keras/activations/sigmoid
+https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu
+https://www.tensorflow.org/api_docs/python/tf/keras/activations/tanh
+https://www.tfcertification.com/blog/must-know-tensorflow-activation-functions#:~:text=Just%20as%20our%20pain%20neurons%20activate%20our%20flight,action%20when%20data%20behave%20in%20a%20certain%20way.
+
+optimizers
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/SGD
+https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/RMSprop
+https://www.geeksforgeeks.org/optimizers-in-tensorflow/
+
+NN
+https://www.tensorflow.org/guide/keras/rnn
+https://www.tensorflow.org/tutorials/images/cnn
+https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn/
+https://www.educba.com/keras-neural-network/
+
+Layers
+https://www.tutorialspoint.com/keras/keras_dense_layer.htm
+https://www.educba.com/keras-dense/
+https://jmlr.org/papers/v15/srivastava14a.html
+
+Tensorflow
+https://zhuanlan.zhihu.com/p/48982978
+
+Github reference
+https://github.com/vedanshdwivedi/Chatbot-using-NLTK
+
+Code
+https://data-flair.training/blogs/python-chatbot-project/
+
+NLTK
+https://www.geeksforgeeks.org/python-nltk-tokenize-regexp/
+https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
+
+Machine Learning
+https://www.geeksforgeeks.org/machine-learning/
